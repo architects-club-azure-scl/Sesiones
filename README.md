@@ -2,7 +2,7 @@
 # Club de Arquitectos Detalle Sesiones
 > El club de arquitectos es una instancia para compartir conocimientos sobre arquitecturas de Azure relacionadas a diversas soluciones.
 
-![](../Sesiones/portada-ca.png)
+![Image of Yaktocat](https://github.com/architects-club-azure-scl/Sesiones/blob/master/portada-ca.PNG)
 
 ## Detalle Sesiones
 * Sesión 2:
