@@ -1,6 +1,6 @@
 # Sesiones
 # Club de Arquitectos Detalle Sesiones
-> El club de arqutiectos es una instancia para compartir conocimientos sobre arquitecturas de Azure relacionadas a diversas soluciones.
+> El club de arquitectos es una instancia para compartir conocimientos sobre arquitecturas de Azure relacionadas a diversas soluciones.
 
 #[![NPM Version][npm-image]][npm-url]
 #[![Build Status][travis-image]][travis-url]
