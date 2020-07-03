@@ -5,19 +5,10 @@
 ![](../portada-ca.png)
 
 ## Detalle Sesiones
-
+* 0.2.1
 Sesion 2:
-[https://www.dropbox.com/s/fod2nvkjy3glpwx/Segunda%20Sesi%C3%B3n%20-%20Club%20de%20Arquitectos.mp4?dl=0](https://github.com/dbader/)
+[https://bit.ly/3dYhoz0](https://github.com/dbader/)
 
-```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
-```
 
 ## Ejemplo de uso
 
