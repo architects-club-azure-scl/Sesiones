@@ -1,14 +1,12 @@
 # Sesiones
 # Club de Arquitectos Detalle Sesiones
-> Breve descripción de lo que hace tu producto.
+> El club de arqutiectos es una instancia para compartir conocimientos sobre arquitecturas de Azure relacionadas a diversas soluciones.
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-Uno o dos párrafos sobre tu producto y el problema que resuelve.
-
-![](../header.png)
+![](../portada-ca.png)
 
 ## Instalación
 
