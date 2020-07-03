@@ -5,8 +5,7 @@
 ![](../portada-ca.png)
 
 ## Detalle Sesiones
-* 0.2.1
-Sesion 2:
+* Sesión 2:
 [https://bit.ly/3dYhoz0](https://github.com/dbader/)
 
 
