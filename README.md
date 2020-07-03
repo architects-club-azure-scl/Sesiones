@@ -5,7 +5,7 @@
 ![Portada Club de Arquitectos](https://github.com/architects-club-azure-scl/Sesiones/blob/master/portada-ca.PNG)
 
 ## Detalle Sesiones
-* Sesión 2:
+* Link Sesión 2:
 [https://bit.ly/3dYhoz0](https://github.com/dbader/)
 
 
