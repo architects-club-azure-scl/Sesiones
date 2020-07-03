@@ -6,8 +6,9 @@
 
 ## Detalle Sesiones
 * Link Sesión 2:
-[https://bit.ly/3dYhoz0](https://github.com/dbader/)
+[https://bit.ly/3dYhoz0]
 
+https://bit.ly/2YWQiEd
 
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/datadog-metrics
