@@ -5,10 +5,10 @@
 ![Portada Club de Arquitectos](https://github.com/architects-club-azure-scl/Sesiones/blob/master/portada-ca.PNG)
 
 ## Detalle Sesiones
-* Link Sesión 2:
-[https://bit.ly/3dYhoz0]
+* Link Sesión 2: [https://bit.ly/3dYhoz0]
+* Link Sesión 3: [https://bit.ly/3isgiPH]
+* Link Sesión 4: [https://bit.ly/2YWQiEd]
 
-https://bit.ly/2YWQiEd
 
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/datadog-metrics
