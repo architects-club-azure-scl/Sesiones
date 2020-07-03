@@ -2,15 +2,12 @@
 # Club de Arquitectos Detalle Sesiones
 > El club de arquitectos es una instancia para compartir conocimientos sobre arquitecturas de Azure relacionadas a diversas soluciones.
 
-#[![NPM Version][npm-image]][npm-url]
-#[![Build Status][travis-image]][travis-url]
-#[![Downloads Stats][npm-downloads]][npm-url]
-
 ![](../portada-ca.png)
 
-## Instalación
+## Detalle Sesiones
 
-OS X y Linux:
+Sesion 2:
+[https://www.dropbox.com/s/fod2nvkjy3glpwx/Segunda%20Sesi%C3%B3n%20-%20Club%20de%20Arquitectos.mp4?dl=0](https://github.com/dbader/)
 
 ```sh
 npm install my-crazy-module --save
@@ -56,7 +53,7 @@ Tu nomre – [@TuTwitter](https://twitter.com/dbader_org) – TuEmail@example.co
 
 Distribuido bajo la licencia XYZ. Ver ``LICENSE`` para más información.
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+
 
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/datadog-metrics
